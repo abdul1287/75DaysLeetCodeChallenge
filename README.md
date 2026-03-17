@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
