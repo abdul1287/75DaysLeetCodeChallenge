@@ -12,7 +12,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,10 +32,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
-## Bit Manipulation
-|  |
-| ------- |
-| [1009-complement-of-base-10-integer](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/1009-complement-of-base-10-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -51,9 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-## Matrix
-|  |
-| ------- |
-| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) ||
 <!---LeetCode Topics End-->
