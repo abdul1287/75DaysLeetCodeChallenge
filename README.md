@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
