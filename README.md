@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [2784-check-if-array-is-good](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2784-check-if-array-is-good](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
 | ------- |
