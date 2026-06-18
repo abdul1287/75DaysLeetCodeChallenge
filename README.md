@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 ## Interactive
 |  |
 | ------- |
