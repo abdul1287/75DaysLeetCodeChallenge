@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [2540-minimum-common-value](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/abdul1287/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
